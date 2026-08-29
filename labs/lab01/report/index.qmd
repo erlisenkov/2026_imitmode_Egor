@@ -1,0 +1,9 @@
+## Программный код
+
+### Базовая модель
+
+{{< include ../project/markdown/01_exponential_growth/01_exponential_growth.qmd >}}
+
+### Параметрическое исследование
+
+{{< include ../project/markdown/02_exponential_growth/02_exponential_growth.qmd >}}
